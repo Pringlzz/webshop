@@ -8,6 +8,7 @@ defineProps({
 </script>
 
 <template>
+  <h1>{{ msg }}</h1>
   <v-container>
     <v-row class="text-center">
       <v-col cols="12">
