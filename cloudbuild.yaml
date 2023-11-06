@@ -13,4 +13,4 @@ steps:
 
 # Deploy
 - name: 'gcr.io/aporedfanshop/firebase'
-  args: ['deploy']
+  args: ['deploy', '--project=aporedfanshop', '--only=hosting']
