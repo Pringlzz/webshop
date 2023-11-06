@@ -12,7 +12,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Zahraa hier für dich</template>
+    <template #heading>TEST TEST</template>
 
     ICH DREHE DURCH
   </WelcomeItem>
